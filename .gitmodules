@@ -1,3 +1,6 @@
-[submodule "flutter_habit_tracker"]
-	path = flutter_habit_tracker
-	url = https://github.com/92Andy/flutter_habit_tracker
+[submodule "habit_tracker"]
+	path = habit_tracker
+	url = https://github.com/92Andy/habit_tracker
+[submodule "my_plant"]
+	path = my_plant
+	url = https://github.com/92Andy/my_plant
